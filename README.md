@@ -25,3 +25,6 @@ Progress tracking with statistics
 Visual feedback animations
 
 Encrypted local data storage
+
+I hope you gonna like it ! 
+I work very hard on it
